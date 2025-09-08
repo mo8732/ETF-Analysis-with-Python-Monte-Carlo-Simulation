@@ -39,17 +39,6 @@ Select a diversified mix of ETFs that balances **strong growth potential** with 
 
 ---
 
-## Results & Insights
-- **Growth ETFs (VUG, VGT)**  
-  - Higher potential returns  
-  - Higher volatility (more risk)  
-
-- **Broad Market ETFs (VTI)**  
-  - Lower returns than growth ETFs  
-  - More stability and diversification  
-
----
-
 ## Tech Stack
 - Python 
 - [pandas](https://pandas.pydata.org/) – data manipulation  
