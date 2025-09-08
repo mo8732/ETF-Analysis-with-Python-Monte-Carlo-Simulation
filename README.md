@@ -55,7 +55,7 @@ Select a diversified mix of ETFs that balances **strong growth potential** with 
 ---
 
 ## Tech Stack
-- Python 3.10+  
+- Python 
 - [pandas](https://pandas.pydata.org/) – data manipulation  
 - [numpy](https://numpy.org/) – numerical calculations  
 - [yfinance](https://github.com/ranaroussi/yfinance) – financial data  
