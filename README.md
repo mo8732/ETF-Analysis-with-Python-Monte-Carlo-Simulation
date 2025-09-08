@@ -48,10 +48,6 @@ Select a diversified mix of ETFs that balances **strong growth potential** with 
   - Lower returns than growth ETFs  
   - More stability and diversification  
 
-- **Monte Carlo Analysis**  
-  - Provided confidence intervals for potential outcomes  
-  - Quantified risk by showing the probability of loss  
-
 ---
 
 ## Tech Stack
